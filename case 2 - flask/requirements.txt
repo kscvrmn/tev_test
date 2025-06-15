@@ -1,0 +1,4 @@
+flask
+peewee
+uwsgi
+psycopg2-binary
